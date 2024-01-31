@@ -146,14 +146,103 @@ border: 2px solid red;;
  }
 
  .caixas_com_texto {
-  width: 50%;
-  height: 400px;
+  margin: -230px 0px 0px 55px;
+  width: 717px;
+  height: auto;
   border: 2px solid green;
-
+ padding: 30px;
  }
 
  .caixa_com_texto_unidade{
-width: 40px;
-height: 40px;
+margin: 20px 0px 20px 0px;
+  width: 80px;
+height: 80px;
 border: 2px solid purple;
  }
+
+
+.caixas_com_texto_caixas{
+display: flex;
+justify-content: space-around;
+}
+
+.caixas_com_texto_caixas2{
+  display: flex;
+  justify-content: space-around;
+}
+
+ .caixas_com_texto_p{
+display: flex;
+
+ }
+
+ .caixas_com_texto_p2{
+display: flex;
+  
+ }
+
+ .caixa5_interior{
+margin: auto;
+  width: 670px;
+  height: 70px;
+  border: 2px solid pink;
+ }
+
+ .caixa5 p{
+  margin: 30px 0px 30px 0px;
+
+
+ }
+
+ .box_imagem_abaixo{
+  padding: 20px;
+  margin: -462px -1px 0px 799px;
+  position: absolute;
+  height: auto;
+  width: 507px;
+border: 2px solid green;
+ }
+
+.box_imagem_abaixo p{
+margin: 20px 0px 10px 0px;
+
+}
+
+ .imagem_abaixo{
+  margin: auto;
+  border: 2px solid brown;
+ width: 226px;
+ height: 55px;
+ }
+
+ .caixa6{
+  display: flex;
+  padding: 20px;
+  height: auto;
+  justify-content: space-between;
+ }
+
+ .caixa6_interno{
+  margin: 20px 0px 20px 0px;
+  width: 300px;
+  height: 300px;
+border: 2px solid red;
+ }
+
+ .caixa6_interno_miniatura{
+  padding: 20px;
+border: 2px solid cyan;
+height: 99px;
+width: auto;
+ }
+
+ .caixa6_imagem{
+background-color: blue;
+width: 50px;
+height: 50px;
+ }
+
+.rodape{
+  height: 300px;
+  background-color: gray;
+}
