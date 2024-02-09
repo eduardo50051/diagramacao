@@ -99,6 +99,14 @@ background-color: blueviolet;
 
  }
 
+ .verde{
+  background-color: green;
+ }
+
+ .azul{
+  background-color: blue;
+ }
+
  .imagem_destaque{
   border: 2px solid green;
 width: 127px;

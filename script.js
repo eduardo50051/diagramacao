@@ -66,6 +66,30 @@ $(document).ready(function() {
     
     });
     
+   
+    $("#botao_que_vai_mostrar").click(function() {
+      $("#a_ser_mostrado").slideDown(2000);
+     
+    
+    });
+
+
+   $("#Lista li:last").hover(function(){
+      $(this).addClass("verde");
+    },function(){
+      $(this).removeClass("verde");
+    });
+   
+    
+
+
+
+
+
+
+
+
+
 
 
 
